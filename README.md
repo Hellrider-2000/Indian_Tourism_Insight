@@ -262,10 +262,10 @@ ORDER BY total_places DESC;
 
 
 ### 📂Download full SQL Query 
-[Here](https://github.com/Hellrider-2000/Indian_Tourism_Insight/blob/main/SQL%20PROJECT.sql)
+[👉 Here](https://github.com/Hellrider-2000/Indian_Tourism_Insight/blob/main/SQL%20PROJECT.sql)
 
 ### 📂Download Dataset
-[Here](https://github.com/Hellrider-2000/Indian_Tourism_Insight/blob/main/Top%20Indian%20Places%20to%20Visit.csv)
+[👉 Here](https://github.com/Hellrider-2000/Indian_Tourism_Insight/blob/main/Top%20Indian%20Places%20to%20Visit.csv)
 
 ## 👨‍💻 Author
 - Abhranil Das
